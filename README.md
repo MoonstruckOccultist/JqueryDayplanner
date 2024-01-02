@@ -1,5 +1,7 @@
 # JqueryDayplanner 
 
+[Link to website](https://moonstruckoccultist.github.io/JqueryDayplanner/)
+
 ## Description
 Application to save tasks and visualise done tasks, current tasks, and future tasks.
 
